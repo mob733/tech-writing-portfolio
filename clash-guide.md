@@ -177,7 +177,7 @@ winget install ClashVergeRev.ClashVergeRev
 3. 点击节点名称后，等待客户端完成切换
   
 
-> ![Windows页面截图](.images/windows页面截图.png)
+> ![Windows页面截图](./images/windows页面截图.png)
 > 
 > 节点右侧的绿色数字表示的是延迟，单位通常是毫秒 `ms`。数值越小，说明节点响应越快，越适合优先使用
 > 
