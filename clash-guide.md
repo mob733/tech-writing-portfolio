@@ -100,7 +100,7 @@ winget install ClashVergeRev.ClashVergeRev
   
 2. 下滑页面，在 **Assets** 区域找到最新版本的 `cmfa-*-meta-universal-release.apk` 文件（通用版，适用于绝大多数手机），点击下载 APK 文件到手机本地
   
-  > <img src="./images/安卓下载页面.jpg" alt="安卓下载页面" width="500">
+  > <img src="./images/安卓下载页面.jpg" alt="安卓下载页面" width="400">
   > 
   > **提示：** 文件名中的 `*` 为版本号，请选择**最新版本**下载，不必拘泥于教程截图中的具体版本号。若不确认手机架构，选择 `universal` 版本即可
   
@@ -258,7 +258,7 @@ winget install ClashVergeRev.ClashVergeRev
 4. 点击节点名称后，等待切换完成
   
 
-> ![安卓代理页面](.images/安卓代理页面.jpg)
+> <img src="./images/安卓代理页面.jpg" alt="安卓代理页面" width="400">
 > 
 > 节点右侧的数字表示延迟，单位为毫秒。数值越小，说明节点响应越快。右下角的闪电图标用于测速或刷新节点延迟，点击后可重新检测节点状态
 
