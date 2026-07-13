@@ -151,7 +151,7 @@ winget install ClashVergeRev.ClashVergeRev
 2. 下滑，选择`便捷导入`中的`Clash订阅链接`，点击`复制Clash订阅链接`
   
 
-[订阅导入]
+![获取订阅](./images/获取订阅.png)
 
 ### Windows配置步骤
 
@@ -177,7 +177,7 @@ winget install ClashVergeRev.ClashVergeRev
 3. 点击节点名称后，等待客户端完成切换
   
 
-> [Windows页面]
+> ![Windows页面截图](.images/windows页面截图.png)
 > 
 > 节点右侧的绿色数字表示的是延迟，单位通常是毫秒 `ms`。数值越小，说明节点响应越快，越适合优先使用
 > 
@@ -258,7 +258,7 @@ winget install ClashVergeRev.ClashVergeRev
 4. 点击节点名称后，等待切换完成
   
 
-> [安卓页面]
+> ![安卓代理页面](.images/安卓代理页面.jpg)
 > 
 > 节点右侧的数字表示延迟，单位为毫秒。数值越小，说明节点响应越快。右下角的闪电图标用于测速或刷新节点延迟，点击后可重新检测节点状态
 
